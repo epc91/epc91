@@ -9,7 +9,7 @@ Acá podrás encontrar mis repositorios, la mayoría son proyectos de tutoriales
 ### Skills ⚡
 
 * Uso **Ubuntu**, me manejo en la consola y estoy escribiendo scripts bash para automatizar algunas tareas. 
-* Uso **Python** para escribir scripts. Me interesa seguir aprendiendo ML.
+* Uso **Python** para escribir scripts en conjunto a **Selenium** para automatizar interacción con la web.
 * Uso **Django** y **Django Rest Framework** para construir el backend de algunos proyectos.
 * Uso la triada **Html**, **Css** y **Javascript** para crear frontend, y consumir API's externas o propias creadas en Django.
 * Uso **Vue.js** para crear frontend dinámico, y **Axios** para consumir API's. 
