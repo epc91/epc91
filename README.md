@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hola hola!!! 👋
 
-<!--
-**epc91/epc91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mi nombre es **Eduardo Peschke**, soy de Chile, soy Desarrollador Junior y profesor de Matemáticas. 
 
-Here are some ideas to get you started:
+### Mi Github 🌱
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Acá podrás encontrar mis repositorios, la mayoría son proyectos de tutoriales, o cursos que he realizado, sin embargo, los primeros proyectos "pinnedos" corresponden a proyectos propios
+
+### Skills ⚡
+
+* Uso **Ubuntu**, me manejo en la consola y estoy escribiendo scripts bash para automatizar algunas tareas. 
+* Uso **Python** para escribir scripts. Me interesa seguir aprendiendo ML.
+* Uso **Django** y **Django Rest Framework** para construir el backend de algunos proyectos.
+* Uso la triada **Html**, **Css** y **Javascript** para crear frontend, y consumir API's externas o propias creadas en Django.
+* Uso **Vue.JS** para crear frontend dinámico, y Axios para consumir API's. 
+* Uso **Git** y **Github**.
+
+### Contacto 🔭
+
+Puedes encontrar información de contacto y mi curriculum en www.linkedin.com/in/eduardopeschkec
