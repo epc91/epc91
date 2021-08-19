@@ -1,10 +1,10 @@
 ## Hola hola!!! 👋
 
-Mi nombre es **Eduardo Peschke**, soy de Chile, soy Desarrollador Junior y profesor de Matemáticas. 
+Mi nombre es **Eduardo Peschke**, soy de Chile, Desarrollador Junior y profesor de Matemáticas. 
 
 ### Mi Github 🌱
 
-Acá podrás encontrar mis repositorios, la mayoría son proyectos de tutoriales, o cursos que he realizado, sin embargo, los primeros proyectos "pinnedos" corresponden a proyectos propios
+Acá podrás encontrar mis repositorios, la mayoría son proyectos de tutoriales, o cursos que he realizado, sin embargo, los primeros proyectos "pinneados" corresponden a proyectos propios
 
 ### Skills ⚡
 
@@ -12,7 +12,7 @@ Acá podrás encontrar mis repositorios, la mayoría son proyectos de tutoriales
 * Uso **Python** para escribir scripts. Me interesa seguir aprendiendo ML.
 * Uso **Django** y **Django Rest Framework** para construir el backend de algunos proyectos.
 * Uso la triada **Html**, **Css** y **Javascript** para crear frontend, y consumir API's externas o propias creadas en Django.
-* Uso **Vue.JS** para crear frontend dinámico, y Axios para consumir API's. 
+* Uso **Vue.js** para crear frontend dinámico, y **Axios** para consumir API's. 
 * Uso **Git** y **Github**.
 
 ### Contacto 🔭
